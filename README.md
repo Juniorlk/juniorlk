@@ -54,7 +54,4 @@ I am a final-year Cybersecurity & Systems/Networks Engineering Student at CESI L
 ---
 
 ### 📫 Let's Connect!
-
-- **Email:** [etiennetetssop@gmail.com](mailto:etiennetetssop@gmail.com)
 - **LinkedIn:** [linkedin.com/in/etienne-tetssop](https://linkedin.com/in/etienne-tetssop)
-- **Phone:** +33 7 82 66 58 05
