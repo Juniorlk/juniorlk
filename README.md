@@ -1,58 +1,155 @@
-# Hi there, I'm Etienne TETSSOP 👋 
-### Computer Engineering Student @ CESI Toulouse | Software Engineering, Cloud & Security
+# Hi there, I'm Etienne TETSSOP 👋
+
+### Computer Engineering Student @ CESI Toulouse | Cybersecurity, Systems & Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/etienne-tetssop)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etiennetetssop@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Toulouse%2C%20France-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Root-Me](https://img.shields.io/badge/Root--Me-Profile-black?style=for-the-badge)](https://www.root-me.org/Link-1109334?lang=fr)
+[![GitHub](https://img.shields.io/badge/GitHub-Juniorlk-181717?style=for-the-badge&logo=github)](https://github.com/Juniorlk)
 
 ---
 
-### 🚀 About Me
+## 👋 About Me
 
-Final-year Computer Engineering Student at CESI Toulouse (English-track FISE curriculum). Backed by a strong initial background in Software Engineering, I build modular applications, automated workflows, and secure infrastructure. I combine core software engineering principles (OOP, REST APIs, CI/CD) with hands-on systems reliability, networking, and defensive security.
+Final-year Computer Engineering student at **CESI Toulouse**, specializing in **Systems, Networks and Cybersecurity** through an English-track engineering curriculum.
 
-- 🎓 **Education:** Master's in Computer Engineering @ CESI Toulouse | Bachelor's Degree in Software Engineering (IUT)
-- 🔭 **Current Focus:** Fullstack & API development, microservices containerization, infrastructure monitoring, and system resilience (DRP/BCP).
-- 🎯 **Looking for:** 6-month End-of-Studies Internship (PFE) starting **February 1st, 2027** to **July 30th, 2027** (Full-time).
+I enjoy building and experimenting with security-focused environments, combining **systems administration, networking, security monitoring and automation**.
+
+My hands-on work includes **Windows/Active Directory, Linux, SIEM, log analysis, network security, infrastructure hardening and Python/PowerShell automation**.
+
+I particularly enjoy understanding how attacks can be detected and how security controls can be tested and improved through practical experimentation.
+
+- 🎓 **Education:** Engineering Degree in Computer Engineering @ CESI Toulouse
+- 🔐 **Specialization:** Systems, Networks & Cybersecurity
+- 🧪 **Security interests:** Detection, SIEM, Active Directory, network security, security automation and Purple Team
+- 💻 **Languages:** Python, C#/.NET, Bash, PowerShell, JavaScript
+- 🎯 **Looking for:** 6-month End-of-Studies Internship (PFE), from **February 1st to July 30th, 2027**
 
 ---
 
-### 🧰 Tech Stack & Core Skills
+## 🧰 Technical Skills
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Software & APIs** | Python, C# / .NET 8, Java, JavaScript, REST APIs, JWT Authentication, SQL (PostgreSQL, MySQL, MongoDB) |
-| **Cloud, DevOps & Containers** | Docker, Docker Compose, Git / GitLab CI, Linux (Debian, Ubuntu), Bash, PowerShell, Caddy (TLS) |
-| **Systems & Resilience** | Active Directory (GPO, Audit), Windows Server, Disaster Recovery Planning (DRP / PRA), Proxmox, VMware |
-| **Networks & Cyber** | Cisco CCNA 1 & 2, TCP/IP, BGP, VLANs, VPN (Tailscale, IPsec), Stormshield, Wazuh SIEM, ISO 27001 |
+| **Cybersecurity & Detection** | Wazuh SIEM, log analysis, Wireshark, Nmap, security monitoring, vulnerability analysis, basic pentesting & forensics |
+| **Systems & Identity** | Windows Server, Active Directory, GPO, FSMO, PowerShell, Linux (Debian, Ubuntu), Proxmox, VMware |
+| **Networks & Infrastructure Security** | TCP/IP, VLAN, BGP, MPLS, SD-WAN, VPN (Tailscale, IPsec), DNS, DHCP, Stormshield, pfSense |
+| **Development & Automation** | Python, Bash, PowerShell, C#/.NET 8, REST APIs, JWT, SQL, Git, GitHub, Docker, Docker Compose |
+| **Web & Infrastructure** | Caddy, TLS, reverse proxy, containerized services |
 
 ---
 
-### 💻 Featured Projects & Labs
+## 🧪 Security Labs & Projects
 
-#### 📦 [EasySave — Reliable Backup Management Software](https://github.com/Meckagameers85/EasySave)
-> Open-source backup solution built in **C# / .NET 8** implementing strict Object-Oriented Programming (encapsulation, modular architecture). Features complete and differential backups, JSON state persistence, real-time console monitoring, and 7-language internationalization (MIT License).
+### 🛡️ Homelab — Security Monitoring & Infrastructure
 
-#### ☁️ [Homelab: Microservices & Real-Time Monitoring](https://github.com/Juniorlk/HomeLAB)
-> Self-hosted infrastructure orchestrated with **Docker & Docker Compose**. Deployed automated reverse proxy (Caddy with automated TLS), secured microservices (Vaultwarden, Nextcloud), zero-trust remote access via **Tailscale Mesh VPN**, and real-time event monitoring with **Wazuh**.
+A personal security and infrastructure laboratory used to experiment with defensive security, monitoring and system administration.
 
-#### 🧪 [Research: ML-Based Network Anomaly Detection]
-> Co-authored research at CESI analyzing Machine Learning models in **Python** for rapid DDoS mitigation in Software-Defined Networks (SDN). Focused on dataset preprocessing, model evaluation, and detection latency reduction.
+- Deployed **Wazuh SIEM** with Docker for centralized security log collection and analysis.
+- Built Windows/Linux-based environments for infrastructure and security experimentation.
+- Created vulnerable virtual machines to practice security analysis, basic penetration testing and intrusion detection.
+- Deployed self-hosted services behind **Caddy reverse proxy with TLS**.
+- Implemented secure remote access using **Tailscale Mesh VPN**.
+- Operated containerized services including **Vaultwarden** and **Nextcloud**.
 
-#### 🌐 [Enterprise Multi-Site Secure Infrastructure]
-> Designed and deployed a multi-site enterprise network hardened with **3 Stormshield firewalls**, least-privilege VLAN segmentation, and dynamic **BGP routing**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorlk&show_icons=true&theme=tokyonight&hide_border=true" alt="Etienne's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorlk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+🔗 [HomeLAB](https://github.com/Juniorlk/HomeLAB)
 
 ---
 
-### 📫 Let's Connect!
+### 🧠 ML-Based Network Anomaly & DDoS Detection
+
+Academic research project focused on the detection of network attacks in **Software-Defined Networks (SDN)**.
+
+- Used **Python** and Machine Learning techniques for network anomaly detection.
+- Worked on dataset preprocessing and model evaluation.
+- Studied detection latency and the ability of models to identify DDoS attacks.
+- Explored the application of Machine Learning to improve network security monitoring.
+
+---
+
+### 🌐 Enterprise Multi-Site Secure Infrastructure
+
+Academic network and security project focused on designing a secure multi-site enterprise infrastructure.
+
+- Designed a multi-site network architecture.
+- Implemented **VLAN segmentation** following a least-privilege approach.
+- Configured an infrastructure using **three Stormshield firewalls**.
+- Implemented dynamic **BGP routing**.
+- Worked on network security, segmentation and perimeter protection.
+
+---
+
+### 💾 EasySave — Backup Management Software
+
+Open-source backup management software developed in **C# / .NET 8**.
+
+- Implemented complete and differential backup mechanisms.
+- Designed a modular architecture using object-oriented programming principles.
+- Implemented JSON-based state persistence.
+- Added real-time console monitoring.
+- Internationalized the application into seven languages.
+- Released under the **MIT License**.
+
+🔗 [EasySave](https://github.com/Meckagameers85/EasySave)
+
+---
+
+## 🔬 Cybersecurity Interests
+
+I'm particularly interested in:
+
+- Security monitoring and **SIEM**
+- Attack detection and log analysis
+- **Windows / Active Directory security**
+- Network security and infrastructure hardening
+- Security automation with **Python and PowerShell**
+- Red Team / Blue Team methodologies
+- **Purple Team** approaches
+- Security testing and vulnerability analysis
+- Infrastructure and system resilience
+
+---
+
+## 🧪 CTF & Security Platforms
+
+- **Root-Me:** [Link](https://www.root-me.org/Link-1109334?lang=fr)
+- **CTF CESI — 2026**
+
+---
+
+## 🎓 Education & Certifications
+
+### CESI Toulouse
+**Engineering Degree in Computer Engineering**  
+2024 – 2027  
+English-track FISE — Systems, Networks & Cybersecurity
+
+### IUT
+**Bachelor's Degree in Computer Engineering**  
+2021 – 2024
+
+### Certifications & Training
+
+- **Cisco CCNA 1 & 2** — 2025–2026
+- **SecNumAcadémie — ANSSI** — 2025
+- **CTF CESI** — 2026
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 **French:** Fluent
+- 🇬🇧 **English:** B2 Professional — TOEIC 850
+
+---
+
+## 📫 Let's Connect
+
 - **LinkedIn:** [linkedin.com/in/etienne-tetssop](https://linkedin.com/in/etienne-tetssop)
-- **Portfolio / Projects:** [github.com/Juniorlk](https://github.com/Juniorlk)
+- **GitHub:** [github.com/Juniorlk](https://github.com/Juniorlk)
+- **Root-Me:** [Link](https://www.root-me.org/Link-1109334?lang=fr)
+- **Email:** [etiennetetssop@gmail.com](mailto:etiennetetssop@gmail.com)
+
+---
+
+> Building, breaking, monitoring and securing systems — one lab at a time. 🔐
